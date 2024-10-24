@@ -1,0 +1,12 @@
+name: BlissGems
+version: '1.0-SNAPSHOT'
+main: com.blissgems.BlissGems
+api-version: '1.21'
+commands:
+  givegemfire:
+    description: Gives the Fire Gem to the player.
+    usage: /<command>
+
+  givegemstrength:
+    description: Gives the Strength Gem to the player.
+    usage: /<command>

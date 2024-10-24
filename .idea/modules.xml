@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BlissGemsPlugin.iml" filepath="$PROJECT_DIR$/.idea/BlissGemsPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blissgems.iml" filepath="$PROJECT_DIR$/blissgems.iml" />
     </modules>
   </component>
 </project>
